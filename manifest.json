@@ -4,9 +4,9 @@
     "description": "Displays a YouTube video review of the shoe selected on any webpage for the EZKicks app.",
     "version": "1.0",
     "Icons": {
-        "16": "Icons/icon16.png",
-        "48": "Icons/icon48.png",
-        "128": "Icons/icon128.png"
+        "16": "Icons/Icon16.png",
+        "48": "Icons/Icon48.png",
+        "128": "Icons/Icon128.png"
     },
     "permissions": [
         "activeTab",
